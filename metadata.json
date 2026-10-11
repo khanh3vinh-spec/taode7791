@@ -1,0 +1,8 @@
+{
+  "name": "TẠO MA TRẬN ĐỀ KT THEO CV 7991",
+  "description": "Ứng dụng tạo ma trận và bản đặc tả đề kiểm tra môn Toán chuẩn Công văn 7991/BGDĐT-GDTrH tích hợp 5 năng lực toán học.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
